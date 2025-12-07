@@ -1,2 +1,1 @@
-developeを作った。
-feature/testを作った。
+自分で編集しました。
